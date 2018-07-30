@@ -1,0 +1,9 @@
+{
+    "name": "gift-guide",
+    "version": "0.0.1",
+    "author": "news.com.au",
+    "description": "Creates gift guide plugin",
+    "dependencies": {
+        "bluebird": "^3.5.1"
+    }
+}

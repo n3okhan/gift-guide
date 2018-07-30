@@ -1,0 +1,875 @@
+
+@font-face {
+  font-family: 'icomoon';
+  src: url("https://s0.wp.com/wp-content/themes/vip/newscorpau-nca/assets/dist/fonts/icomoon-desktop/icomoon.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: "Unit Slab Pro Bold";
+  src: url("https://s0.wp.com/wp-content/themes/vip/newscorpau-nca/assets/dist/fonts/unitslabpro/unitslabpro-bold.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 17, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.story .product-catalogue-fox {
+  margin: 30px 0;
+}
+
+/* line 21, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox {
+  height: 500px;
+  margin: 0 0 20px;
+  overflow: hidden;
+  position: relative;
+  width: 984px;
+}
+/* line 22, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox * {
+  box-sizing: border-box;
+}
+/* line 30, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .intro {
+  background: white url("https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/intro.jpg") 0 0 no-repeat;
+  height: 500px;
+  width: 984px;
+}
+/* line 34, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .intro .start-btn {
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  width: 50px;
+}
+/* line 40, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .intro.loading {
+  opacity: 0.7;
+}
+/* line 43, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .intro.hidden {
+  display: none;
+}
+/* line 47, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .content .catagory-bar {
+  background: white url("https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/strap.jpg") 0 0 no-repeat;
+  height: 55px;
+}
+/* line 50, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .content .catagory-bar select {
+  border: 1px solid #afafaf;
+  font: 400 14px/30px arial, sans-serif;
+  height: 30px;
+  margin: 15px 0 15px 395px;
+  width: 200px;
+  text-transform: uppercase;
+}
+/* line 59, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container {
+  height: 445px;
+  overflow: hidden;
+  position: relative;
+  width: 648px;
+  margin: 0 auto;
+  background: #fff;
+}
+/* line 66, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products {
+  height: 443px;
+  left: 0;
+  position: absolute;
+  width: auto;
+  -webkit-transition: left 0.5s ease-in-out;
+  -moz-transition: left 0.5s ease-in-out;
+  transition: left 0.5s ease-in-out;
+}
+/* line 74, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-1 {
+  width: 648px;
+}
+/* line 77, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-2 {
+  width: 1296px;
+}
+/* line 80, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-3 {
+  width: 1944px;
+}
+/* line 83, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-4 {
+  width: 2592px;
+}
+/* line 86, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-5 {
+  width: 3240px;
+}
+/* line 89, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-6 {
+  width: 3888px;
+}
+/* line 92, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-7 {
+  width: 4536px;
+}
+/* line 95, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products.groups-8 {
+  width: 5184px;
+}
+/* line 98, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group {
+  display: block;
+  float: left;
+  height: 445px;
+  width: 648px;
+}
+/* line 103, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview {
+  background: #ffffff;
+  border: 1px solid #b6b6b6;
+  cursor: pointer;
+  float: left;
+  height: 198px;
+  margin: 12px 0 0 12px;
+  position: relative;
+  width: 200px;
+}
+/* line 116, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview.over:before {
+  background: rgba(219, 26, 50, 0.8);
+  content: " ";
+  display: block;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+/* line 127, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview.over:after {
+  background: #fff;
+  color: #292929;
+  content: "VIEW";
+  display: block;
+  font: 400 18px/50px "Unit Slab Pro Bold", "Times New Roman", Times, serif;
+  height: 50px;
+  left: 50%;
+  margin: -20px 0 0 -85px;
+  position: absolute;
+  text-align: center;
+  bottom: 15px;
+  width: 170px;
+  z-index: 1;
+}
+/* line 142, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview.over .hovername {
+  color: #fff;
+  display: block;
+  font: 600 15px/17px arial, helvetica, sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 130px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+/* line 156, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview.over .hovername p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: auto;
+  width: 100%;
+  margin: -10% 0 0 -50%;
+}
+/* line 169, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview.ad:before, .product-catalogue-fox .product-container .products .product-group .product-preview.ad:after {
+  display: none;
+}
+/* line 173, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview .thumbnail {
+  background: #eee;
+  height: 152px;
+}
+/* line 177, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview .name {
+  margin: 4px 0 0;
+  font: 700 14px/17px arial, helvetica, sans-serif;
+  text-align: center;
+}
+/* line 182, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview .hovername {
+  display: none;
+}
+/* line 185, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview .price {
+  display: none;
+}
+/* line 198, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .left,
+.product-catalogue-fox .controls .right {
+  background: #db1a32;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+  height: 80px;
+  opacity: 0.9;
+  position: absolute;
+  text-indent: -999999px;
+  top: 240px;
+  width: 40px;
+  z-index: 1;
+  border: 1px solid #fff;
+  border-left: none;
+}
+/* line 214, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .left:after,
+.product-catalogue-fox .controls .right:after {
+  display: block;
+  font: 400 40px/40px icomoon;
+  left: 6px;
+  position: absolute;
+  text-indent: 0;
+  top: 22px;
+}
+/* line 222, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .left {
+  left: 128px;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+/* line 229, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .left:after {
+  content: '\f054';
+}
+/* line 233, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .right {
+  right: 128px;
+}
+/* line 235, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .right:after {
+  content: '\f054';
+}
+/* line 240, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .disabled,
+.product-catalogue-fox .controls .hidden {
+  display: none;
+}
+/* line 243, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .counter {
+  bottom: -2px;
+  font: 400 16px/16px arial, sans-serif;
+  left: 50%;
+  margin: 0 0 0 -30px;
+  position: absolute;
+  text-align: center;
+  width: 60px;
+}
+/* line 252, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .controls .counter .position,
+.product-catalogue-fox .controls .counter .total {
+  font-weight: 700;
+}
+/* line 257, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay {
+  background: #fff;
+  height: 445px;
+  left: 168px;
+  position: absolute;
+  top: 61px;
+  width: 648px;
+  z-index: 2;
+}
+/* line 265, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .close {
+  background: #292929;
+  cursor: pointer;
+  left: 0;
+  height: 30px;
+  position: absolute;
+  text-indent: -99999px;
+  top: 0;
+  width: 30px;
+  z-index: 4;
+}
+/* line 275, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .close:after {
+  color: #fff;
+  content: '\e028';
+  font: 700 26px/30px icomoon;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  text-indent: 0;
+  top: 0;
+  width: 30px;
+}
+/* line 288, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block {
+  height: 100%;
+  width: 100%;
+}
+/* line 291, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image {
+  border: 0 none;
+  background: #fff;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+/* line 297, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image .enlarge-image {
+  display: none;
+}
+/* line 300, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image .shrink-image {
+  background: #292929;
+  cursor: pointer;
+  display: block;
+  left: 0;
+  height: 30px;
+  position: absolute;
+  text-indent: -99999px;
+  top: 0;
+  width: 30px;
+  z-index: 4;
+}
+/* line 311, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image .shrink-image:after {
+  color: #fff;
+  content: '\e028';
+  font: 700 26px/30px icomoon;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  text-indent: 0;
+  top: 0;
+  width: 30px;
+}
+/* line 325, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .thumbnail-block {
+  bottom: 5px;
+  left: 50%;
+  margin-left: -100px;
+  position: absolute;
+}
+/* line 330, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .thumbnail-block .thumbnail-wrapper {
+  margin: 0 10px;
+  width: 50px;
+}
+/* line 333, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .thumbnail-block .thumbnail-wrapper.active:before {
+  z-index: 2;
+}
+/* line 339, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .description {
+  color: #292929;
+  font: normal 16px/19px serif;
+}
+/* line 343, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .content-block {
+  display: none;
+}
+/* line 346, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block {
+  float: left;
+  width: 274px;
+}
+/* line 349, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .main-image {
+  border: 1px solid #b6b6b6;
+  display: block;
+  height: auto;
+  margin: 20px 0 0 15px;
+  overflow: hidden;
+  position: relative;
+  width: 248px;
+}
+/* line 357, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .main-image img {
+  height: auto;
+  width: 100%;
+  display: block;
+}
+/* line 362, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .main-image .enlarge-image {
+  cursor: pointer;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+/* line 370, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .main-image .enlarge-image span {
+  background: rgba(0, 0, 0, 0.65);
+  bottom: 10px;
+  color: #fff;
+  font: 700 12px/14px arial, sans-serif;
+  position: absolute;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  right: 0;
+}
+/* line 381, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .main-image .shrink-image {
+  display: none;
+}
+/* line 385, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .thumbnail-block {
+  margin: 0 0 0 3px;
+}
+/* line 387, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .thumbnail-block .thumbnail-wrapper {
+  border: 1px solid #c9c9c9;
+  cursor: pointer;
+  display: block;
+  float: left;
+  height: auto;
+  margin: 20px 0 0 12px;
+  overflow: hidden;
+  position: relative;
+  width: 75px;
+}
+/* line 397, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .thumbnail-block .thumbnail-wrapper.active {
+  border-color: #c9c9c9;
+}
+/* line 399, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .thumbnail-block .thumbnail-wrapper.active:before {
+  background: #000;
+  content: ' ';
+  display: block;
+  height: 100%;
+  opacity: 0.5;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+/* line 410, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .image-block .thumbnail-block .thumbnail-wrapper img {
+  height: auto;
+  width: 100%;
+  display: block;
+}
+/* line 418, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block {
+  border: 1px solid #b6b6b6;
+  float: right;
+  height: 387px;
+  margin: 20px 15px 20px 0;
+  padding: 15px;
+  position: relative;
+  width: 350px;
+}
+/* line 426, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block:before {
+  display: none;
+}
+/* line 429, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .name {
+  font: 700 22px/26px arial, sans-serif;
+  margin: 0 0 10px;
+}
+/* line 434, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .brand-and-price {
+  display: none;
+}
+/* line 440, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .brand {
+  color: #626262;
+  display: inline;
+}
+/* line 442, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .brand:after {
+  content: " / ";
+  display: inline;
+}
+/* line 448, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .price {
+  display: inline;
+}
+/* line 451, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social {
+  border-bottom: 1px solid #c4c4c4;
+  margin: 0 0 15px;
+  padding: 0 0 15px;
+}
+/* line 456, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social div {
+  display: inline-block;
+  font-size: 44px;
+  margin: 0 6px;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 45px;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+/* line 468, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social div a {
+  color: #292929;
+  display: block;
+  height: 45px;
+  left: 0;
+  outline: 0 none;
+  text-decoration: none;
+  text-indent: -9999px;
+  top: 0;
+  width: 45px;
+}
+/* line 478, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social div a:before {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  left: 1px;
+  line-height: 1;
+  padding-right: 0;
+  position: absolute;
+  text-indent: 0;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}
+/* line 492, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social div a.facebook:before {
+  content: "\e00b";
+  color: #3b5998;
+}
+/* line 496, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social div a.twitter:before {
+  content: "\e00a";
+  color: #1DA1F2;
+}
+/* line 501, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .social div:hover {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+  filter: alpha(opacity=65);
+  -moz-opacity: 0.65;
+  -khtml-opacity: 0.65;
+  opacity: 0.65;
+}
+/* line 510, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .link {
+  font: 400 18px/25px "Unit Slab Pro Bold", "Times New Roman", Times, serif;
+  left: 107px;
+  margin: 15px 0 0;
+}
+/* line 517, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .content-block .link a {
+  background: #db1a32;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+/* line 547, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .intro .start-btn {
+  text-indent: -9999px;
+  height: 41px;
+  left: 64px;
+  position: absolute;
+  bottom: 166px;
+  width: 141px;
+}
+/* line 562, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview .name {
+  background: rgba(255, 255, 255, 0.5);
+  bottom: 10px;
+  position: absolute;
+  width: 100%;
+}
+/* line 568, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-container .products .product-group .product-preview .price {
+  margin: 23px 0 0;
+}
+/* line 573, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .close {
+  background: black url("https://media.news.com.au/cs/nca/latest/public/img/p/2016/12-dec/microsoft-xbox/close-btn.jpg") 0 0 no-repeat;
+  height: 33px;
+}
+/* line 576, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay .close:after {
+  display: none;
+}
+/* line 581, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image img {
+  max-width: 100%;
+  max-height: 445px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
+/* line 588, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image .shrink-image {
+  background: black url("https://media.news.com.au/cs/nca/latest/public/img/p/2016/12-dec/microsoft-xbox/close-btn.jpg") 0 0 no-repeat;
+  height: 33px;
+}
+/* line 591, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+.product-catalogue-fox .product-overlay.expanded-image .image-block .main-image .shrink-image:after {
+  display: none;
+}
+
+/* line 601, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.desktop .product-catalogue-fox .content {
+  background: white url("https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/background.jpg") 0 0 no-repeat;
+}
+
+/* line 662, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox {
+  width: 320px;
+  height: 480px;
+  margin: 30px auto;
+}
+/* line 667, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .intro {
+  background: white url("https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/mobile-intro.jpg") 0 0 no-repeat;
+  height: 480px;
+  width: 320px;
+  margin: 0 auto;
+  position: relative;
+}
+/* line 675, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .intro .start-btn {
+  height: 42px;
+  left: 39px;
+  position: absolute;
+  text-indent: -9999px;
+  bottom: 204px;
+  width: 142px;
+}
+/* line 692, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content.hidden {
+  display: none;
+}
+/* line 695, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .catagory-bar {
+  background: #db1a32;
+  height: 55px;
+}
+/* line 699, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .catagory-bar select {
+  margin: 12px 15px;
+}
+/* line 704, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container {
+  width: 320px;
+}
+/* line 706, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .products {
+  -webkit-transition: left 0.2s ease-in-out;
+  -moz-transition: left 0.2s ease-in-out;
+  transition: left 0.2s ease-in-out;
+}
+/* line 711, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .products .product-group {
+  width: 320px;
+  height: 430px;
+}
+/* line 716, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .product-preview {
+  width: 145px;
+  height: 180px;
+  margin: 10px 0 0 10px;
+}
+/* line 723, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .product-preview.ad img {
+  max-width: 100%;
+  margin-top: 20px;
+}
+/* line 729, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .product-preview .thumbnail {
+  background: #fff;
+}
+/* line 731, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .product-preview .thumbnail img {
+  max-width: 100%;
+}
+/* line 736, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .product-preview .name {
+  bottom: 5px;
+}
+/* line 740, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .content .product-container .product-preview .price {
+  display: none;
+}
+/* line 749, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls.hidden {
+  display: none;
+}
+/* line 752, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls .left {
+  height: 70px;
+  left: 0;
+}
+/* line 756, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls .left:after {
+  top: 17px;
+  left: 7px;
+}
+/* line 768, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls .right {
+  height: 70px;
+  right: 0;
+}
+/* line 772, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls .right:after {
+  top: 15px;
+  left: 7px;
+}
+/* line 785, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls .left,
+body.mobile .product-catalogue-fox .controls .right {
+  top: 213px;
+}
+/* line 789, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .controls .counter {
+  font: 400 16px/16px arial, sans-serif;
+  width: 100%;
+  margin: 0 auto;
+  left: 0;
+  bottom: 12px;
+}
+/* line 798, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay {
+  height: 480px;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+/* line 804, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .close {
+  height: 44px;
+  width: 44px;
+  background: url("https://media.news.com.au/cs/nca/latest/public/img/p/2016/12-dec/microsoft-xbox/close-btn-mobile-white-bg.png") center center no-repeat;
+}
+/* line 810, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block {
+  border: 0px;
+  float: left;
+  height: 405px;
+  margin: 0 15px 0 0;
+  padding: 15px 0 0 0;
+  position: relative;
+  width: 100%;
+}
+/* line 819, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .name {
+  padding: 0px 45px;
+  font: 700 20px/26px arial, sans-serif;
+  letter-spacing: -1px;
+  margin-top: 20px;
+}
+/* line 826, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .brand-and-price {
+  margin: 0 0 15px;
+}
+/* line 832, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .description p {
+  padding: 5px 15px;
+  font: normal 17px/20px times, serif;
+}
+/* line 838, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .link {
+  bottom: 0;
+  left: 86px;
+  position: relative;
+  display: inline;
+}
+/* line 844, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .link a {
+  background: #db1a32;
+  color: #fff;
+  font: 600 18px/18px arial, helvetica, sans-serif;
+}
+/* line 848, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .link a:before {
+  left: -91px;
+}
+/* line 854, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .content-block .social {
+  border: 0px;
+  padding: 0px;
+  position: relative;
+  margin: 20px 0px;
+  text-align: center;
+}
+/* line 884, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block {
+  width: 100%;
+  position: relative;
+}
+/* line 888, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block:before {
+  color: #292929;
+  content: "tap to view";
+  font: 400 12px/30px arial, helvetica, sans-serif;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  top: -30px;
+  left: 0;
+  width: 100%;
+}
+/* line 899, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block .main-image {
+  display: none;
+}
+/* line 901, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block .main-image img {
+  display: none;
+}
+/* line 905, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block .main-image .shrink-image {
+  height: 44px;
+  width: 44px;
+  background: #292929 url("https://media.news.com.au/cs/nca/latest/public/img/p/2016/12-dec/microsoft-xbox/shrink-image-btn-white.png") center center no-repeat;
+}
+/* line 914, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block .thumbnail-block .thumbnail-wrapper {
+  border: 1px solid #c9c9c9;
+  width: 95px;
+  height: 70px;
+  margin: 0px 0 0 7px;
+}
+/* line 921, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block .thumbnail-block img {
+  display: block;
+}
+/* line 928, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay .image-block.single-image .thumbnail-block .thumbnail-wrapper {
+  float: none;
+  margin-left: 105px;
+}
+/* line 938, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay.expanded-image .image-block .main-image {
+  background: #292929;
+  display: block;
+}
+/* line 941, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay.expanded-image .image-block .main-image img {
+  display: block;
+  margin-top: 80px;
+}
+/* line 947, ../../../../../../../templates/sass/vertical/p/2017/11-nov/fox/gift-guide.scss */
+body.mobile .product-catalogue-fox .product-overlay.expanded-image .image-block .thumbnail-block {
+  bottom: 15px;
+  left: 103px;
+}

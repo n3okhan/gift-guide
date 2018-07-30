@@ -1,0 +1,935 @@
+
+productcatalogue({
+    "catagories": {
+        "1": "Kids",
+        "2": "Him",
+        "3": "Her",
+        "4": "Everyone"
+    },
+    "products": [
+    {
+        "productName": "Whimpy Kid 4 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$39.98",
+        "productDescription": "This NEW boxset features all 4 Wimpy Kid movies including: Diary of a Wimpy Kid, Diary of a Wimpy Kid 2: Rodrick Rules, Diary of a Wimpy Kid 3: Dog Days & Diary of a Wimpy Kid 4: The Long Haul",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/diary-of-a-wimpy-kid-1-4/499539/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0043_Wimpy%20kid%2084521SDG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0043_Wimpy%20kid%2084521SDG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/diary-of-a-wimpy-kid-1-4/499539/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0043_Wimpy%20kid%2084521SDG_3D.jpg",
+                "title": "Whimpy Kid 4 Movie Pack",
+                "summary": "This NEW boxset features all 4 Wimpy Kid movies including: Diary of a Wimpy Kid, Diary of a Wimpy Kid 2: Rodrick Rules, Diary of a Wimpy Kid 3: Dog Days & Diary of a Wimpy Kid 4: The Long Haul",
+                "description": "This NEW boxset features all 4 Wimpy Kid movies including: Diary of a Wimpy Kid, Diary of a Wimpy Kid 2: Rodrick Rules, Diary of a Wimpy Kid 3: Dog Days & Diary of a Wimpy Kid 4: The Long Haul"
+            },
+            "twitter": {
+                "text": "Whimpy Kid 4 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/diary-of-a-wimpy-kid-1-4/499539/"
+            }
+        }
+    }, {
+        "productName": "The Maze Runner 2 Pack",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "This double pack featuring The Maze Runner & Maze Runner: The Scorch Trials is a must have for anyone wanting to catch-up before you see The Death Cure next year.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/adventure/maze-runner-the-maze-runner-the-scorch-trials/498807/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0034_65321SDG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0034_65321SDG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/adventure/maze-runner-the-maze-runner-the-scorch-trials/498807/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0034_65321SDG_3D.jpg",
+                "title": "The Maze Runner 2 Pack",
+                "summary": "This double pack featuring The Maze Runner & Maze Runner: The Scorch Trials is a must have for anyone wanting to catch-up before you see The Death Cure next year.",
+                "description": "This double pack featuring The Maze Runner & Maze Runner: The Scorch Trials is a must have for anyone wanting to catch-up before you see The Death Cure next year."
+            },
+            "twitter": {
+                "text": "The Maze Runner 2 Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/adventure/maze-runner-the-maze-runner-the-scorch-trials/498807/"
+            }
+        }
+    }, {
+        "productName": "Dragons TV & Movie Pack",
+        "productBrand": "",
+        "productPrice": "$49.98",
+        "productDescription": "For the ultimate Dragons fan features ALL of the movies and TV series including: How to Train Your Dragon 1&2, Gift Of The Night Fury, Dragons: Riders Of Berk - Part 1 & 2, Dragons: Defenders Of Berk - Part 1 & 2 and Dragons: Race To The Edge",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/how-to-train-your-dragon-complete-movie-tv-collection/498843/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0035_932133717665_howtot_u3D_packagingdvd_thl25L9V76K.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0035_932133717665_howtot_u3D_packagingdvd_thl25L9V76K.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/how-to-train-your-dragon-complete-movie-tv-collection/498843/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0035_932133717665_howtot_u3D_packagingdvd_thl25L9V76K.jpg",
+                "title": "Dragons TV & Movie Pack",
+                "summary": "For the ultimate Dragons fan features ALL of the movies and TV series including: How to Train Your Dragon 1&2, Gift Of The Night Fury, Dragons: Riders Of Berk - Part 1 & 2, Dragons: Defenders Of Berk - Part 1 & 2 and Dragons: Race To The Edge",
+                "description": "For the ultimate Dragons fan features ALL of the movies and TV series including: How to Train Your Dragon 1&2, Gift Of The Night Fury, Dragons: Riders Of Berk - Part 1 & 2, Dragons: Defenders Of Berk - Part 1 & 2 and Dragons: Race To The Edge"
+            },
+            "twitter": {
+                "text": "Dragons TV & Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/how-to-train-your-dragon-complete-movie-tv-collection/498843/"
+            }
+        }
+    }, {
+        "productName": "Home Alone 5 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "Revisit your favourite Christmas movies with this ultimate Home Alone 5 movie collection, featuring the classic Home Alone, Home Alone 2: Lost In New York, Home Alone 3, Home Alone 4 & Home Alone: The Holiday Heist.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/home-alone-5-movie-collection/974643/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0039_9321337170596_homeal_packagingdvd_src25Q9PZTh.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0039_9321337170596_homeal_packagingdvd_src25Q9PZTh.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/home-alone-5-movie-collection/974643/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0039_9321337170596_homeal_packagingdvd_src25Q9PZTh.jpg",
+                "title": "Home Alone 5 Movie Pack",
+                "summary": "Revisit your favourite Christmas movies with this ultimate Home Alone 5 movie collection, featuring the classic Home Alone, Home Alone 2: Lost In New York, Home Alone 3, Home Alone 4 & Home Alone: The Holiday Heist.",
+                "description": "Revisit your favourite Christmas movies with this ultimate Home Alone 5 movie collection, featuring the classic Home Alone, Home Alone 2: Lost In New York, Home Alone 3, Home Alone 4 & Home Alone: The Holiday Heist."
+            },
+            "twitter": {
+                "text": "Home Alone 5 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/home-alone-5-movie-collection/974643/"
+            }
+        }
+    }, {
+        "productName": "Ice Age 5 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$29.98",
+        "productDescription": "The ultimate Ice Age collection, featuring all 5 movies including: Ice Age, Ice Age 2: The Meltdown, Ice Age 3: Dawn of The Dinosaurs, Ice Age 4: Continental Drift & Ice Age 5: Collison Course.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/ice-age-complete-collection-1-5/983987/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0038_9321337170480_iceage_packagingdvd_src24LqXswx.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0038_9321337170480_iceage_packagingdvd_src24LqXswx.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/ice-age-complete-collection-1-5/983987/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0038_9321337170480_iceage_packagingdvd_src24LqXswx.jpg",
+                "title": "Ice Age 5 Movie Pack",
+                "summary": "The ultimate Ice Age collection, featuring all 5 movies including: Ice Age, Ice Age 2: The Meltdown, Ice Age 3: Dawn of The Dinosaurs, Ice Age 4: Continental Drift & Ice Age 5: Collison Course.",
+                "description": "The ultimate Ice Age collection, featuring all 5 movies including: Ice Age, Ice Age 2: The Meltdown, Ice Age 3: Dawn of The Dinosaurs, Ice Age 4: Continental Drift & Ice Age 5: Collison Course."
+            },
+            "twitter": {
+                "text": "Ice Age 5 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/ice-age-complete-collection-1-5/983987/"
+            }
+        }
+    }, {
+        "productName": "Alvin 4 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$24.98",
+        "productDescription": "Join Alvin, Simon, Theadore and the Chipettes as they sing and dance their way through life, this 4 movie collection features Alvin & The Chipmunks, Alvin & The Chipmunks: The Squeakquel, Alvin & The Chipmunks: Chipwrecked & Alvin & The Chipmunks: The Road Chip.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/childrens/alvin-the-chipmunks-4-movie-collection/889369/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0037_9321337164885_alvina_packagingdvd_src239As61x.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0037_9321337164885_alvina_packagingdvd_src239As61x.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/childrens/alvin-the-chipmunks-4-movie-collection/889369/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0037_9321337164885_alvina_packagingdvd_src239As61x.jpg",
+                "title": "Alvin 4 Movie Pack",
+                "summary": "Join Alvin, Simon, Theadore and the Chipettes as they sing and dance their way through life, this 4 movie collection features Alvin & The Chipmunks, Alvin & The Chipmunks: The Squeakquel, Alvin & The Chipmunks: Chipwrecked & Alvin & The Chipmunks: The Road Chip.",
+                "description": "Join Alvin, Simon, Theadore and the Chipettes as they sing and dance their way through life, this 4 movie collection features Alvin & The Chipmunks, Alvin & The Chipmunks: The Squeakquel, Alvin & The Chipmunks: Chipwrecked & Alvin & The Chipmunks: The Road Chip."
+            },
+            "twitter": {
+                "text": "Alvin 4 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/childrens/alvin-the-chipmunks-4-movie-collection/889369/"
+            }
+        }
+    }, {
+        "productName": "Madagascar 4 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "Move it! Move it! Join Alex, Marty, Melman and Gloria in the roaring good fun Madagascar movies! This 4 movie collection features Madagascar, Madagascar 2: Escape 2 Africa, Madagascar 3: Europe's Most Wanted the recent Penguins Of Madagascar.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/madagascar-1-3-penguins-of-madagascar/700859/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0041_9321337172965_pengui_packagingdvd_src24ds7MtQ.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0041_9321337172965_pengui_packagingdvd_src24ds7MtQ.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/madagascar-1-3-penguins-of-madagascar/700859/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0041_9321337172965_pengui_packagingdvd_src24ds7MtQ.jpg",
+                "title": "Madagascar 4 Movie Pack",
+                "summary": "Move it! Move it! Join Alex, Marty, Melman and Gloria in the roaring good fun Madagascar movies! This 4 movie collection features Madagascar, Madagascar 2: Escape 2 Africa, Madagascar 3: Europe's Most Wanted the recent Penguins Of Madagascar.",
+                "description": "Move it! Move it! Join Alex, Marty, Melman and Gloria in the roaring good fun Madagascar movies! This 4 movie collection features Madagascar, Madagascar 2: Escape 2 Africa, Madagascar 3: Europe's Most Wanted the recent Penguins Of Madagascar."
+            },
+            "twitter": {
+                "text": "Madagascar 4 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/madagascar-1-3-penguins-of-madagascar/700859/"
+            }
+        }
+    }, {
+        "productName": "Kung Fu Panda Trilogy",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "Prepare for awesomeness with DreamWorks Animations Kung Fu Panda! All 3 movies are available in the 1 epic collection.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/kung-fu-panda-1-3/950586/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0036_9321337164878_kungfu_packagingdvd_src23DXFZkW.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0036_9321337164878_kungfu_packagingdvd_src23DXFZkW.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/kung-fu-panda-1-3/950586/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0036_9321337164878_kungfu_packagingdvd_src23DXFZkW.jpg",
+                "title": "Kung Fu Panda Trilogy",
+                "summary": "Prepare for awesomeness with DreamWorks Animations Kung Fu Panda! All 3 movies are available in the 1 epic collection.",
+                "description": "Prepare for awesomeness with DreamWorks Animations Kung Fu Panda! All 3 movies are available in the 1 epic collection."
+            },
+            "twitter": {
+                "text": "Kung Fu Panda Trilogy",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/kung-fu-panda-1-3/950586/"
+            }
+        }
+    }, {
+        "productName": "Night at the Museum Pack",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "Laugh out loud with the all star cast of Night at the Museum, led by Ben Stiller and Robin Williams as they try and control the late night chaos. This boxset includes all 3 Night At The Museum movies.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/night-at-the-museum-1-3/700851/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0040_9321337172835_nighta_packagingdvd_src24zn58VU.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0040_9321337172835_nighta_packagingdvd_src24zn58VU.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/night-at-the-museum-1-3/700851/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0040_9321337172835_nighta_packagingdvd_src24zn58VU.jpg",
+                "title": "Night at the Museum Pack",
+                "summary": "Laugh out loud with the all star cast of Night at the Museum, led by Ben Stiller and Robin Williams as they try and control the late night chaos. This boxset includes all 3 Night At The Museum movies.",
+                "description": "Laugh out loud with the all star cast of Night at the Museum, led by Ben Stiller and Robin Williams as they try and control the late night chaos. This boxset includes all 3 Night At The Museum movies."
+            },
+            "twitter": {
+                "text": "Night at the Museum Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/family/night-at-the-museum-1-3/700851/"
+            }
+        }
+    }, {
+        "productName": "Shrek 4 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "Relive every hilarious adventurous moment of Shrek's in this epic 4 movie collection, includes Shrek, Shrek 2, Shrek The Third & Shrek Forever After.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/childrens/shrek-4-movie-collection/950570/",
+        "productCatagory": "Kids",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0042_Shrek%20Collection2.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0042_Shrek%20Collection2.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/childrens/shrek-4-movie-collection/950570/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0042_Shrek%20Collection2.jpg",
+                "title": "Shrek 4 Movie Pack",
+                "summary": "Relive every hilarious adventurous moment of Shrek's in this epic 4 movie collection, includes Shrek, Shrek 2, Shrek The Third & Shrek Forever After.",
+                "description": "Relive every hilarious adventurous moment of Shrek's in this epic 4 movie collection, includes Shrek, Shrek 2, Shrek The Third & Shrek Forever After."
+            },
+            "twitter": {
+                "text": "Shrek 4 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/childrens/shrek-4-movie-collection/950570/"
+            }
+        }
+    }, {
+        "productName": "Planet of the Apes 3 Pack",
+        "productBrand": "",
+        "productPrice": "$44.98",
+        "productDescription": "Apes versus Human, who will survive? This thrilling NEW collection includes Rise of the Planet of the Apes, Dawn of the Planet of the Apes & War for the Planet of the Apes.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/planet-of-the-apes-trilogy/508047/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0033_Planet%20of%20the%20Apes%2084522SBG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0033_Planet%20of%20the%20Apes%2084522SBG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/planet-of-the-apes-trilogy/508047/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0033_Planet%20of%20the%20Apes%2084522SBG_3D.jpg",
+                "title": "Planet of the Apes 3 Pack",
+                "summary": "Apes versus Human, who will survive? This thrilling NEW collection includes Rise of the Planet of the Apes, Dawn of the Planet of the Apes & War for the Planet of the Apes.",
+                "description": "Apes versus Human, who will survive? This thrilling NEW collection includes Rise of the Planet of the Apes, Dawn of the Planet of the Apes & War for the Planet of the Apes."
+            },
+            "twitter": {
+                "text": "Planet of the Apes 3 Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/planet-of-the-apes-trilogy/508047/"
+            }
+        }
+    }, {
+        "productName": "Aliens 6 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$56.98",
+        "productDescription": "In space no one can here you scream! This terrifying 6 movie collection includes the recent Alien: Covenant, plus Prometheus, Alien, Aliens, Alien 3 & Alien Resurrection.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/alien-6-film-collection/460263/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0029_9321337175546_aliens_84122sbg_packagingbluray_src25CeCfAI.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0029_9321337175546_aliens_84122sbg_packagingbluray_src25CeCfAI.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/alien-6-film-collection/460263/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0029_9321337175546_aliens_84122sbg_packagingbluray_src25CeCfAI.jpg",
+                "title": "Aliens 6 Movie Pack",
+                "summary": "In space no one can here you scream! This terrifying 6 movie collection includes the recent Alien: Covenant, plus Prometheus, Alien, Aliens, Alien 3 & Alien Resurrection.",
+                "description": "In space no one can here you scream! This terrifying 6 movie collection includes the recent Alien: Covenant, plus Prometheus, Alien, Aliens, Alien 3 & Alien Resurrection."
+            },
+            "twitter": {
+                "text": "Aliens 6 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/alien-6-film-collection/460263/"
+            }
+        }
+    }, {
+        "productName": "Chuck Norris 6 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$24.98",
+        "productDescription": "It's action hero Chuck Norris to the extreme! This 6 cult film collection includes:  Invasion USA, Hero and the Terror, The Delta Force 1 & 2, Missing in Action & Lone Wolf McQuade.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/chuck-norris-the-6-movie-collection/974678/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0025_9321337170176_chuckn_packagingdvd_src24cuaNbF.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0025_9321337170176_chuckn_packagingdvd_src24cuaNbF.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/chuck-norris-the-6-movie-collection/974678/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0025_9321337170176_chuckn_packagingdvd_src24cuaNbF.jpg",
+                "title": "Chuck Norris 6 Movie Pack",
+                "summary": "It's action hero Chuck Norris to the extreme! This 6 cult film collection includes:  Invasion USA, Hero and the Terror, The Delta Force 1 & 2, Missing in Action & Lone Wolf McQuade.",
+                "description": "It's action hero Chuck Norris to the extreme! This 6 cult film collection includes:  Invasion USA, Hero and the Terror, The Delta Force 1 & 2, Missing in Action & Lone Wolf McQuade."
+            },
+            "twitter": {
+                "text": "Chuck Norris 6 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/chuck-norris-the-6-movie-collection/974678/"
+            }
+        }
+    }, {
+        "productName": "Robocop 4 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$24.98",
+        "productDescription": "In the not-to-distant future robot technology is commonplace, join Robocop in this 4 movie collection as he battles corruption, drugs and evil corporations to restore order.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/robocop-the-complete-collection/464487/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0028_9321337175508_roboco_packagingbluray_src257N9G6K.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0028_9321337175508_roboco_packagingbluray_src257N9G6K.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/robocop-the-complete-collection/464487/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0028_9321337175508_roboco_packagingbluray_src257N9G6K.jpg",
+                "title": "Robocop 4 Movie Pack",
+                "summary": "In the not-to-distant future robot technology is commonplace, join Robocop in this 4 movie collection as he battles corruption, drugs and evil corporations to restore order.",
+                "description": "In the not-to-distant future robot technology is commonplace, join Robocop in this 4 movie collection as he battles corruption, drugs and evil corporations to restore order."
+            },
+            "twitter": {
+                "text": "Robocop 4 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/robocop-the-complete-collection/464487/"
+            }
+        }
+    }, {
+        "productName": "Rocky 6 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$32.98",
+        "productDescription": "Sylvester Stallone is masterful as the Ilalian Stallion Rocky, in this Oscar Winning film franchise. This heavyweight collection features all 6 movies, Rocky 1-5 & Rocky Balboa.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/drama/rocky-the-undisputed-collection/288891/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0023_9321337132754_rockyt_packagingbluray_src12d2d7OB.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0023_9321337132754_rockyt_packagingbluray_src12d2d7OB.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/drama/rocky-the-undisputed-collection/288891/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0023_9321337132754_rockyt_packagingbluray_src12d2d7OB.jpg",
+                "title": "Rocky 6 Movie Pack",
+                "summary": "Sylvester Stallone is masterful as the Ilalian Stallion Rocky, in this Oscar Winning film franchise. This heavyweight collection features all 6 movies, Rocky 1-5 & Rocky Balboa.",
+                "description": "Sylvester Stallone is masterful as the Ilalian Stallion Rocky, in this Oscar Winning film franchise. This heavyweight collection features all 6 movies, Rocky 1-5 & Rocky Balboa."
+            },
+            "twitter": {
+                "text": "Rocky 6 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/drama/rocky-the-undisputed-collection/288891/"
+            }
+        }
+    }, {
+        "productName": "John Wayne 8 Movie Pack",
+        "productBrand": "",
+        "productPrice": "$24.98",
+        "productDescription": "This must have 8 movie collection of John Wayne's biggest hits, includes The Big Trail, Red River, The Horse Soldiers, The Alamo, North To Alaska, The Commancheros, The Longest Day & The Undefeated.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/western/john-wayne-film-collection/464496/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0027_9321337175492_johnwa_packagingdvd_src25qRl3OX.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0027_9321337175492_johnwa_packagingdvd_src25qRl3OX.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/western/john-wayne-film-collection/464496/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0027_9321337175492_johnwa_packagingdvd_src25qRl3OX.jpg",
+                "title": "John Wayne 8 Movie Pack",
+                "summary": "This must have 8 movie collection of John Wayne's biggest hits, includes The Big Trail, Red River, The Horse Soldiers, The Alamo, North To Alaska, The Commancheros, The Longest Day & The Undefeated.",
+                "description": "This must have 8 movie collection of John Wayne's biggest hits, includes The Big Trail, Red River, The Horse Soldiers, The Alamo, North To Alaska, The Commancheros, The Longest Day & The Undefeated."
+            },
+            "twitter": {
+                "text": "John Wayne 8 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/western/john-wayne-film-collection/464496/"
+            }
+        }
+    }, {
+        "productName": "Archer S1-S8 Box Set",
+        "productBrand": "",
+        "productPrice": "$99",
+        "productDescription": "One of TV's best comedies, Archer is set at an international spy agency where espionage & global crises are merely opportunities for its highly trained employees to confuse, undermine, betray and royally screw each other. Inlcudes all 8 seasons.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-animation/archer-season-1-8/499567/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0031_9321337176550_archer_packagingdvd_src252GlvHf.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0031_9321337176550_archer_packagingdvd_src252GlvHf.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-animation/archer-season-1-8/499567/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0031_9321337176550_archer_packagingdvd_src252GlvHf.jpg",
+                "title": "Archer S1-S8 Box Set",
+                "summary": "One of TV's best comedies, Archer is set at an international spy agency where espionage & global crises are merely opportunities for its highly trained employees to confuse, undermine, betray and royally screw each other. Inlcudes all 8 seasons.",
+                "description": "One of TV's best comedies, Archer is set at an international spy agency where espionage & global crises are merely opportunities for its highly trained employees to confuse, undermine, betray and royally screw each other. Inlcudes all 8 seasons."
+            },
+            "twitter": {
+                "text": "Archer S1-S8 Box Set",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-animation/archer-season-1-8/499567/"
+            }
+        }
+    }, {
+        "productName": "Futurama Complete Boxset",
+        "productBrand": "",
+        "productPrice": "$109",
+        "productDescription": "As vast and hilarious as the universe itself, behold the utterly complete collection of Futurama. Here you'll find all 124 outrageous episodes, plus 4 feature-length epic adventures and enough DVD extras to last you until the next millennium!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-animation/futurama-the-complete-series/498863/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0032_futurama2.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0032_futurama2.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-animation/futurama-the-complete-series/498863/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0032_futurama2.jpg",
+                "title": "Futurama Complete Boxset",
+                "summary": "As vast and hilarious as the universe itself, behold the utterly complete collection of Futurama. Here you'll find all 124 outrageous episodes, plus 4 feature-length epic adventures and enough DVD extras to last you until the next millennium!",
+                "description": "As vast and hilarious as the universe itself, behold the utterly complete collection of Futurama. Here you'll find all 124 outrageous episodes, plus 4 feature-length epic adventures and enough DVD extras to last you until the next millennium!"
+            },
+            "twitter": {
+                "text": "Futurama Complete Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-animation/futurama-the-complete-series/498863/"
+            }
+        }
+    }, {
+        "productName": "Stargate Atlantis Boxset",
+        "productBrand": "",
+        "productPrice": "$89.98",
+        "productDescription": "A  group of scientists have discovered the location of the famous lost city of Atlantis, but it's not on Earth. Join the group as they head on a one way trip to Atlantis and investigate all of its secrets. Includes all 5 seasons! ",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/stargate-atlantis-the-complete-series/354075/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0024_9321337137520_starga_packagingdvd_src14YPpyu8.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0024_9321337137520_starga_packagingdvd_src14YPpyu8.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/stargate-atlantis-the-complete-series/354075/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0024_9321337137520_starga_packagingdvd_src14YPpyu8.jpg",
+                "title": "Stargate Atlantis Boxset",
+                "summary": "A  group of scientists have discovered the location of the famous lost city of Atlantis, but it's not on Earth. Join the group as they head on a one way trip to Atlantis and investigate all of its secrets. Includes all 5 seasons! ",
+                "description": "A  group of scientists have discovered the location of the famous lost city of Atlantis, but it's not on Earth. Join the group as they head on a one way trip to Atlantis and investigate all of its secrets. Includes all 5 seasons! "
+            },
+            "twitter": {
+                "text": "Stargate Atlantis Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/stargate-atlantis-the-complete-series/354075/"
+            }
+        }
+    }, {
+        "productName": "The Strain S1-S2 Boxset",
+        "productBrand": "",
+        "productPrice": "$54.98",
+        "productDescription": "Experience the FIRST TWO SEASONS OF THE BLOOD-CURDLING SERIES from Guillermo del Toro. When a freak virus strikes, the CDC races to eradicate it, however they uncover the virus’ source, a paranormal creature determined to destroy mankind.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/strain-the-season-1-2/498891/",
+        "productCatagory": "Him",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0030_9321337176222_strain_packagingbluray_src25Mg2cjJ.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0030_9321337176222_strain_packagingbluray_src25Mg2cjJ.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/strain-the-season-1-2/498891/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0030_9321337176222_strain_packagingbluray_src25Mg2cjJ.jpg",
+                "title": "The Strain S1-S2 Boxset",
+                "summary": "Experience the FIRST TWO SEASONS OF THE BLOOD-CURDLING SERIES from Guillermo del Toro. When a freak virus strikes, the CDC races to eradicate it, however they uncover the virus’ source, a paranormal creature determined to destroy mankind.",
+                "description": "Experience the FIRST TWO SEASONS OF THE BLOOD-CURDLING SERIES from Guillermo del Toro. When a freak virus strikes, the CDC races to eradicate it, however they uncover the virus’ source, a paranormal creature determined to destroy mankind."
+            },
+            "twitter": {
+                "text": "The Strain S1-S2 Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/strain-the-season-1-2/498891/"
+            }
+        }
+    }, {
+        "productName": "Bones Complete Boxset",
+        "productBrand": "",
+        "productPrice": "$184",
+        "productDescription": "The perfect blend of science, mystery & dark humour. An FBI agent joins forces with brilliant scientist as they lead a team of elite, unconventional oddballs through some of the most bizarre cases ever investigated. Features all 12 seasons!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/bones-the-complete-collection/446978/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0019_9321337175263_boness_78582sdg_packagingdvd_src25HVz9pe.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0019_9321337175263_boness_78582sdg_packagingdvd_src25HVz9pe.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/bones-the-complete-collection/446978/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0019_9321337175263_boness_78582sdg_packagingdvd_src25HVz9pe.jpg",
+                "title": "Bones Complete Boxset",
+                "summary": "The perfect blend of science, mystery & dark humour. An FBI agent joins forces with brilliant scientist as they lead a team of elite, unconventional oddballs through some of the most bizarre cases ever investigated. Features all 12 seasons!",
+                "description": "The perfect blend of science, mystery & dark humour. An FBI agent joins forces with brilliant scientist as they lead a team of elite, unconventional oddballs through some of the most bizarre cases ever investigated. Features all 12 seasons!"
+            },
+            "twitter": {
+                "text": "Bones Complete Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/bones-the-complete-collection/446978/"
+            }
+        }
+    }, {
+        "productName": "Teen Wolf Complete Boxset",
+        "productBrand": "",
+        "productPrice": "",
+        "productDescription": "Teen Wolf is a supernatural drama series that follows Scott McCall a high school student and social outcast that after being bitten by a werewolf, he gains extraordinary supernatural abilities. This NEW boxset features ALL 6 seasons of Teen Wolf.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/teen-wolf-the-complete-series/499627/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0012_80481SDG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0012_80481SDG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/teen-wolf-the-complete-series/499627/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0012_80481SDG_3D.jpg",
+                "title": "Teen Wolf Complete Boxset",
+                "summary": "Teen Wolf is a supernatural drama series that follows Scott McCall a high school student and social outcast that after being bitten by a werewolf, he gains extraordinary supernatural abilities. This NEW boxset features ALL 6 seasons of Teen Wolf.",
+                "description": "Teen Wolf is a supernatural drama series that follows Scott McCall a high school student and social outcast that after being bitten by a werewolf, he gains extraordinary supernatural abilities. This NEW boxset features ALL 6 seasons of Teen Wolf."
+            },
+            "twitter": {
+                "text": "Teen Wolf Complete Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/teen-wolf-the-complete-series/499627/"
+            }
+        }
+    }, {
+        "productName": "Ally McBeal Boxset",
+        "productBrand": "",
+        "productPrice": "$54.98",
+        "productDescription": "Enjoy every single episode from all five seasons of Ally McBeal in the ultimate collectors DVD box set. Follow the misadventures of lawyer Ally as she over analyses her work, her relationships and her life in the perfect mix of comedy and drama.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/ally-mcbeal-the-complete-series/297700/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0013_9321337136790_allymc_packagingdvd_src13krT3mN.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0013_9321337136790_allymc_packagingdvd_src13krT3mN.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/ally-mcbeal-the-complete-series/297700/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0013_9321337136790_allymc_packagingdvd_src13krT3mN.jpg",
+                "title": "Ally McBeal Boxset",
+                "summary": "Enjoy every single episode from all five seasons of Ally McBeal in the ultimate collectors DVD box set. Follow the misadventures of lawyer Ally as she over analyses her work, her relationships and her life in the perfect mix of comedy and drama.",
+                "description": "Enjoy every single episode from all five seasons of Ally McBeal in the ultimate collectors DVD box set. Follow the misadventures of lawyer Ally as she over analyses her work, her relationships and her life in the perfect mix of comedy and drama."
+            },
+            "twitter": {
+                "text": "Ally McBeal Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/ally-mcbeal-the-complete-series/297700/"
+            }
+        }
+    }, {
+        "productName": "Angel Complete Boxset",
+        "productBrand": "",
+        "productPrice": "$64.98",
+        "productDescription": "Angel, a vampire cursed with a conscience,  after he meets a half-demon with mysterious visions, Angel realises his true purpose: to help those in danger with the hope of redeeming himself and saving his own soul. Includes ALL 5 seasons!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/angel-the-complete-series/494537/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0014_9321337137353_angelc_packagingdvd_src25iE4yQR.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0014_9321337137353_angelc_packagingdvd_src25iE4yQR.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/angel-the-complete-series/494537/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0014_9321337137353_angelc_packagingdvd_src25iE4yQR.jpg",
+                "title": "Angel Complete Boxset",
+                "summary": "Angel, a vampire cursed with a conscience,  after he meets a half-demon with mysterious visions, Angel realises his true purpose: to help those in danger with the hope of redeeming himself and saving his own soul. Includes ALL 5 seasons!",
+                "description": "Angel, a vampire cursed with a conscience,  after he meets a half-demon with mysterious visions, Angel realises his true purpose: to help those in danger with the hope of redeeming himself and saving his own soul. Includes ALL 5 seasons!"
+            },
+            "twitter": {
+                "text": "Angel Complete Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/angel-the-complete-series/494537/"
+            }
+        }
+    }, {
+        "productName": "Buffy Complete Boxset",
+        "productBrand": "",
+        "productPrice": "$140",
+        "productDescription": "INTO EACH GENERATION A SLAYER IS BORN. This must-own boxset is for every Buffy \"watcher\" and contains all 7 butt-kicking seasons. Jump into the demon-filled episodes whenever you like or watch all the vampire slaying action from the beginning.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/buffy-the-complete-series/472846/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0020_9321337176062_buffys_packagingdvd_src25ZTtYpJ.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0020_9321337176062_buffys_packagingdvd_src25ZTtYpJ.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/buffy-the-complete-series/472846/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0020_9321337176062_buffys_packagingdvd_src25ZTtYpJ.jpg",
+                "title": "Buffy Complete Boxset",
+                "summary": "INTO EACH GENERATION A SLAYER IS BORN. This must-own boxset is for every Buffy \"watcher\" and contains all 7 butt-kicking seasons. Jump into the demon-filled episodes whenever you like or watch all the vampire slaying action from the beginning.",
+                "description": "INTO EACH GENERATION A SLAYER IS BORN. This must-own boxset is for every Buffy \"watcher\" and contains all 7 butt-kicking seasons. Jump into the demon-filled episodes whenever you like or watch all the vampire slaying action from the beginning."
+            },
+            "twitter": {
+                "text": "Buffy Complete Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/buffy-the-complete-series/472846/"
+            }
+        }
+    }, {
+        "productName": "Glee Complete Boxset",
+        "productBrand": "",
+        "productPrice": "$94.98",
+        "productDescription": "Journey through ALL 6 seasons of the groundbreaking GLEE. When a high school teacher sets out to transform a group of singers into performers worthy of the coveted trophy, the teens become young adults who deal with acceptance, love and loss. ",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/glee-the-complete-series/705055/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0018_9321337163437_gleeco_packagingdvd_src23i72eDr.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0018_9321337163437_gleeco_packagingdvd_src23i72eDr.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/glee-the-complete-series/705055/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0018_9321337163437_gleeco_packagingdvd_src23i72eDr.jpg",
+                "title": "Glee Complete Boxset",
+                "summary": "Journey through ALL 6 seasons of the groundbreaking GLEE. When a high school teacher sets out to transform a group of singers into performers worthy of the coveted trophy, the teens become young adults who deal with acceptance, love and loss.",
+                "description": "Journey through ALL 6 seasons of the groundbreaking GLEE. When a high school teacher sets out to transform a group of singers into performers worthy of the coveted trophy, the teens become young adults who deal with acceptance, love and loss."
+            },
+            "twitter": {
+                "text": "Glee Complete Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/glee-the-complete-series/705055/"
+            }
+        }
+    }, {
+        "productName": "White Collar Boxset",
+        "productBrand": "",
+        "productPrice": "$74.98",
+        "productDescription": "Catch all 6 seasons of one of TV's most seductive crime dramas. In exchange for a reduced prison sentence, charming high-stakes thief Neal Caffrey forms an unlikely partnership with FBI Agent Peter Burke to help catch other criminals. ",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/white-collar-the-complete-series/697705/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0017_9321337162751_whitec_packagingdvd_src227hbPBg.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0017_9321337162751_whitec_packagingdvd_src227hbPBg.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/white-collar-the-complete-series/697705/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0017_9321337162751_whitec_packagingdvd_src227hbPBg.jpg",
+                "title": "White Collar Boxset",
+                "summary": "Catch all 6 seasons of one of TV's most seductive crime dramas. In exchange for a reduced prison sentence, charming high-stakes thief Neal Caffrey forms an unlikely partnership with FBI Agent Peter Burke to help catch other criminals.",
+                "description": "Catch all 6 seasons of one of TV's most seductive crime dramas. In exchange for a reduced prison sentence, charming high-stakes thief Neal Caffrey forms an unlikely partnership with FBI Agent Peter Burke to help catch other criminals."
+            },
+            "twitter": {
+                "text": "White Collar Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/white-collar-the-complete-series/697705/"
+            }
+        }
+    }, {
+        "productName": "Ultimate Musical Boxset",
+        "productBrand": "",
+        "productPrice": "$54.98",
+        "productDescription": "This ultimate 12 movie musical collection includes the legendary Sound Of Music, Oklahoma!, South Pacific, Carousel, State Fair, King And I, West Side Story, Fiddler On The Roof, All That Jazz, Hello Dolly, Dolly Sisters & Can Can.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/ultimate-musical-collection-the/498847/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0021_9321337176826_musica_packagingdvd_src25MGwQHc.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0021_9321337176826_musica_packagingdvd_src25MGwQHc.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/ultimate-musical-collection-the/498847/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0021_9321337176826_musica_packagingdvd_src25MGwQHc.jpg",
+                "title": "Ultimate Musical Boxset",
+                "summary": "This ultimate 12 movie musical collection includes the legendary Sound Of Music, Oklahoma!, South Pacific, Carousel, State Fair, King And I, West Side Story, Fiddler On The Roof, All That Jazz, Hello Dolly, Dolly Sisters & Can Can.",
+                "description": "This ultimate 12 movie musical collection includes the legendary Sound Of Music, Oklahoma!, South Pacific, Carousel, State Fair, King And I, West Side Story, Fiddler On The Roof, All That Jazz, Hello Dolly, Dolly Sisters & Can Can."
+            },
+            "twitter": {
+                "text": "Ultimate Musical Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/ultimate-musical-collection-the/498847/"
+            }
+        }
+    }, {
+        "productName": "Elvis Movie Boxset",
+        "productBrand": "",
+        "productPrice": "$19.98",
+        "productDescription": "THE KING'S GREASTEST HITS! This ultimate 7 movie Elvis collection includes Love Me Tender, Flaming Star, Wild in the Country, Follow that Dream, Kid Galahad, Frankie and Johnny & Clambake.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/elvis-the-legendary-collection/464500/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0016_9321337149929_elvisb_packagingdvd_src15OfORTV.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0016_9321337149929_elvisb_packagingdvd_src15OfORTV.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/elvis-the-legendary-collection/464500/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0016_9321337149929_elvisb_packagingdvd_src15OfORTV.jpg",
+                "title": "Elvis Movie Boxset",
+                "summary": "THE KING'S GREASTEST HITS! This ultimate 7 movie Elvis collection includes Love Me Tender, Flaming Star, Wild in the Country, Follow that Dream, Kid Galahad, Frankie and Johnny & Clambake.",
+                "description": "THE KING'S GREASTEST HITS! This ultimate 7 movie Elvis collection includes Love Me Tender, Flaming Star, Wild in the Country, Follow that Dream, Kid Galahad, Frankie and Johnny & Clambake."
+            },
+            "twitter": {
+                "text": "Elvis Movie Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/elvis-the-legendary-collection/464500/"
+            }
+        }
+    }, {
+        "productName": "R&H Musical Boxset",
+        "productBrand": "",
+        "productPrice": "$24.98",
+        "productDescription": "Rodgers and Hammersteins magical 6 movie musical collection includes The Sound of Music, The King & I, South Pacific, State Fair, Oklahoma & Carousel.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/rodgers-hammerstein-collection/299347/",
+        "productCatagory": "Her",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0015_9321337141305_rodger_packagingdvd_src13cIRh5U.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0015_9321337141305_rodger_packagingdvd_src13cIRh5U.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/rodgers-hammerstein-collection/299347/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0015_9321337141305_rodger_packagingdvd_src13cIRh5U.jpg",
+                "title": "R&H Musical Boxset",
+                "summary": "Rodgers and Hammersteins magical 6 movie musical collection includes The Sound of Music, The King & I, South Pacific, State Fair, Oklahoma & Carousel.",
+                "description": "Rodgers and Hammersteins magical 6 movie musical collection includes The Sound of Music, The King & I, South Pacific, State Fair, Oklahoma & Carousel."
+            },
+            "twitter": {
+                "text": "R&H Musical Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/musical/rodgers-hammerstein-collection/299347/"
+            }
+        }
+    }, {
+        "productName": "Kingsman 2 Movie Pack",
+        "productBrand": "",
+        "productPrice": "",
+        "productDescription": "Manners Maketh Man. Based upon the acclaimed comic book, the Kingsman are a super-secret spy organisation that save the world from evil. This NEW double pack features the original movie and the recent Kingsman: The Golden Circle.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/kingsman-2-movie-collection/546350/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0011_Kingsman%2085103SBG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0011_Kingsman%2085103SBG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/kingsman-2-movie-collection/546350/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0011_Kingsman%2085103SBG_3D.jpg",
+                "title": "Kingsman 2 Movie Pack",
+                "summary": "Manners Maketh Man. Based upon the acclaimed comic book, the Kingsman are a super-secret spy organisation that save the world from evil. This NEW double pack features the original movie and the recent Kingsman: The Golden Circle.",
+                "description": "Manners Maketh Man. Based upon the acclaimed comic book, the Kingsman are a super-secret spy organisation that save the world from evil. This NEW double pack features the original movie and the recent Kingsman: The Golden Circle."
+            },
+            "twitter": {
+                "text": "Kingsman 2 Movie Pack",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/kingsman-2-movie-collection/546350/"
+            }
+        }
+    }, {
+        "productName": "Star Wars Saga",
+        "productBrand": "",
+        "productPrice": "$79.98",
+        "productDescription": "Feel the Force of STAR WARS with the Saga on Blu-ray, featuring the original 6 movies including: The Phantom Menace, Attack Of The Clones, Revenge Of The Sith, A New Hope, The Empire Strikes Back, Return of the Jedi & 3 special features discs.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/star-wars-the-complete-saga/765829/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0008_9321337166063_starwa_packagingbluray_src24CQNpE8.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0008_9321337166063_starwa_packagingbluray_src24CQNpE8.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/star-wars-the-complete-saga/765829/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0008_9321337166063_starwa_packagingbluray_src24CQNpE8.jpg",
+                "title": "Star Wars Saga",
+                "summary": "Feel the Force of STAR WARS with the Saga on Blu-ray, featuring the original 6 movies including: The Phantom Menace, Attack Of The Clones, Revenge Of The Sith, A New Hope, The Empire Strikes Back, Return of the Jedi & 3 special features discs.",
+                "description": "Feel the Force of STAR WARS with the Saga on Blu-ray, featuring the original 6 movies including: The Phantom Menace, Attack Of The Clones, Revenge Of The Sith, A New Hope, The Empire Strikes Back, Return of the Jedi & 3 special features discs."
+            },
+            "twitter": {
+                "text": "Star Wars Saga",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/sci-fi/star-wars-the-complete-saga/765829/"
+            }
+        }
+    }, {
+        "productName": "James Bond Boxset",
+        "productBrand": "",
+        "productPrice": "$150",
+        "productDescription": "All the Bonds. All the girls. All the action. All in high-definition. Featuring all six iconic James Bond actors across all 24 classic Bond films from Dr. No to the recent Spectre. Plus over 120 hours of special features!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/james-bond-collection-the/967770/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0000_0000000003476_jamesb_packagingbluray_src23D57H18.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0000_0000000003476_jamesb_packagingbluray_src23D57H18.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/james-bond-collection-the/967770/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0000_0000000003476_jamesb_packagingbluray_src23D57H18.jpg",
+                "title": "James Bond Boxset",
+                "summary": "All the Bonds. All the girls. All the action. All in high-definition. Featuring all six iconic James Bond actors across all 24 classic Bond films from Dr. No to the recent Spectre. Plus over 120 hours of special features!",
+                "description": "All the Bonds. All the girls. All the action. All in high-definition. Featuring all six iconic James Bond actors across all 24 classic Bond films from Dr. No to the recent Spectre. Plus over 120 hours of special features!"
+            },
+            "twitter": {
+                "text": "James Bond Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/james-bond-collection-the/967770/"
+            }
+        }
+    }, {
+        "productName": "Die Hard Boxset",
+        "productBrand": "",
+        "productPrice": "$29.98",
+        "productDescription": "Bruce Willis is the legendary John McClane in this Die Hard collection that brings all five iconic films together featuring Die Hard, Die Harder, Die Hard with a Vengence, Die Hard 4.0 & It’s a Good Day to Die Hard.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/die-hard-5-film-collection/445694/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0010_9321337175249_diehar_packagingbluray_src2511kCAP.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0010_9321337175249_diehar_packagingbluray_src2511kCAP.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/die-hard-5-film-collection/445694/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0010_9321337175249_diehar_packagingbluray_src2511kCAP.jpg",
+                "title": "Die Hard Boxset",
+                "summary": "Bruce Willis is the legendary John McClane in this Die Hard collection that brings all five iconic films together featuring Die Hard, Die Harder, Die Hard with a Vengence, Die Hard 4.0 & It’s a Good Day to Die Hard.",
+                "description": "Bruce Willis is the legendary John McClane in this Die Hard collection that brings all five iconic films together featuring Die Hard, Die Harder, Die Hard with a Vengence, Die Hard 4.0 & It’s a Good Day to Die Hard."
+            },
+            "twitter": {
+                "text": "Die Hard Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/action/die-hard-5-film-collection/445694/"
+            }
+        }
+    }, {
+        "productName": "Pink Panther Boxset",
+        "productBrand": "",
+        "productPrice": "$29.98",
+        "productDescription": "The Inspector Is In! Peter Sellers and Steve Martin star as the world's most hilariously disaster prone detective in this merry 8 movie collection of sheer sleuthing fun! Inclusing teh original 6 movie collection and the 2 movie reboots.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/comedy/pink-panther-the-8-film-collection/425720/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0005_9321337149967_pinkpa_packagingdvd_src15LeREUD.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0005_9321337149967_pinkpa_packagingdvd_src15LeREUD.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/comedy/pink-panther-the-8-film-collection/425720/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0005_9321337149967_pinkpa_packagingdvd_src15LeREUD.jpg",
+                "title": "Pink Panther Boxset",
+                "summary": "The Inspector Is In! Peter Sellers and Steve Martin star as the world's most hilariously disaster prone detective in this merry 8 movie collection of sheer sleuthing fun! Inclusing teh original 6 movie collection and the 2 movie reboots.",
+                "description": "The Inspector Is In! Peter Sellers and Steve Martin star as the world's most hilariously disaster prone detective in this merry 8 movie collection of sheer sleuthing fun! Inclusing teh original 6 movie collection and the 2 movie reboots."
+            },
+            "twitter": {
+                "text": "Pink Panther Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/comedy/pink-panther-the-8-film-collection/425720/"
+            }
+        }
+    }, {
+        "productName": "Vikings S1-S4 Boxset",
+        "productBrand": "",
+        "productPrice": "$119",
+        "productDescription": "Journey to an ancient world of exploration, betrayal and highstakes power struggles with the first 4 seasons of Vikings. With its fascinating twists, searing emotion and spectacular effects, this series continues to conquer viewers across the globe!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-action/vikings-season-1-4/498859/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0001_82121SBG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0001_82121SBG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-action/vikings-season-1-4/498859/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0001_82121SBG_3D.jpg",
+                "title": "Vikings S1-S4 Boxset",
+                "summary": "Journey to an ancient world of exploration, betrayal and highstakes power struggles with the first 4 seasons of Vikings. With its fascinating twists, searing emotion and spectacular effects, this series continues to conquer viewers across the globe!",
+                "description": "Journey to an ancient world of exploration, betrayal and highstakes power struggles with the first 4 seasons of Vikings. With its fascinating twists, searing emotion and spectacular effects, this series continues to conquer viewers across the globe!"
+            },
+            "twitter": {
+                "text": "Vikings S1-S4 Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-action/vikings-season-1-4/498859/"
+            }
+        }
+    }, {
+        "productName": "American Horror Story Box",
+        "productBrand": "",
+        "productPrice": "$154",
+        "productDescription": "From creator Ryan Murphy and set in locations ranging from a murder house to an asylum, a coven, a freak show, a hotel and a sinister farmhouse, these 6 seasons follow terrifying stories where you won't want to watch alone!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/american-horror-story-season-1-6/498795/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0002_82900SBG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0002_82900SBG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/american-horror-story-season-1-6/498795/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0002_82900SBG_3D.jpg",
+                "title": "American Horror Story Box",
+                "summary": "From creator Ryan Murphy and set in locations ranging from a murder house to an asylum, a coven, a freak show, a hotel and a sinister farmhouse, these 6 seasons follow terrifying stories where you won't want to watch alone!",
+                "description": "From creator Ryan Murphy and set in locations ranging from a murder house to an asylum, a coven, a freak show, a hotel and a sinister farmhouse, these 6 seasons follow terrifying stories where you won't want to watch alone!"
+            },
+            "twitter": {
+                "text": "American Horror Story Box",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-horror/american-horror-story-season-1-6/498795/"
+            }
+        }
+    }, {
+        "productName": "Fargo S1-S3 Boxset",
+        "productBrand": "",
+        "productPrice": "$79.98",
+        "productDescription": "Each Fargo season features an all-new \"true crime\" story with a new case and new characters, all entrenched in the trademark humour, murder and \"Minnesota nice\" that made the film an enduring classic. This NEW limited boxset features all 3 seasons!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-crime/fargo-season-1-3/499599/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0003_82901SDG_3D.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0003_82901SDG_3D.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-crime/fargo-season-1-3/499599/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0003_82901SDG_3D.jpg",
+                "title": "Fargo S1-S3 Boxset",
+                "summary": "Each Fargo season features an all-new \"true crime\" story with a new case and new characters, all entrenched in the trademark humour, murder and \"Minnesota nice\" that made the film an enduring classic. This NEW limited boxset features all 3 seasons!",
+                "description": "Each Fargo season features an all-new \"true crime\" story with a new case and new characters, all entrenched in the trademark humour, murder and \"Minnesota nice\" that made the film an enduring classic. This NEW limited boxset features all 3 seasons!"
+            },
+            "twitter": {
+                "text": "Fargo S1-S3 Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-crime/fargo-season-1-3/499599/"
+            }
+        }
+    }, {
+        "productName": "How I Met Your Mother Box",
+        "productBrand": "",
+        "productPrice": "$99",
+        "productDescription": "Suit up for all 9 legendary seasons of this slap-happy show. Relive all the inside jokes, crazy time-jumps and classic long-running gags: from the Bro Code to doppelgängers to Robin Sparkles to the infamous slap bet between Marshall and Barney.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/how-i-met-your-mother-the-complete-series/611118/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0006_9321337156170_howime_packagingdvd_src17ZCAXdg.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0006_9321337156170_howime_packagingdvd_src17ZCAXdg.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/how-i-met-your-mother-the-complete-series/611118/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0006_9321337156170_howime_packagingdvd_src17ZCAXdg.jpg",
+                "title": "How I Met Your Mother Box",
+                "summary": "Suit up for all 9 legendary seasons of this slap-happy show. Relive all the inside jokes, crazy time-jumps and classic long-running gags: from the Bro Code to doppelgängers to Robin Sparkles to the infamous slap bet between Marshall and Barney.",
+                "description": "Suit up for all 9 legendary seasons of this slap-happy show. Relive all the inside jokes, crazy time-jumps and classic long-running gags: from the Bro Code to doppelgängers to Robin Sparkles to the infamous slap bet between Marshall and Barney."
+            },
+            "twitter": {
+                "text": "How I Met Your Mother Box",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/how-i-met-your-mother-the-complete-series/611118/"
+            }
+        }
+    }, {
+        "productName": "M*A*S*H Boxset",
+        "productBrand": "",
+        "productPrice": "$99",
+        "productDescription": "One of TV's most beloved shows. The Complete Series contains ALL 11 heartwarming and hilarious seasons plus the movie. Relive all your favourite memories of the doctors and nurses of the 4077th that kept us in stitches-and created a true TV classic.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/mash-the-complete-series/494597/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0004_9321337137445_mashco_packagingdvd_src13bPUUYk.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0004_9321337137445_mashco_packagingdvd_src13bPUUYk.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/mash-the-complete-series/494597/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0004_9321337137445_mashco_packagingdvd_src13bPUUYk.jpg",
+                "title": "M*A*S*H Boxset",
+                "summary": "One of TV's most beloved shows. The Complete Series contains ALL 11 heartwarming and hilarious seasons plus the movie. Relive all your favourite memories of the doctors and nurses of the 4077th that kept us in stitches-and created a true TV classic.",
+                "description": "One of TV's most beloved shows. The Complete Series contains ALL 11 heartwarming and hilarious seasons plus the movie. Relive all your favourite memories of the doctors and nurses of the 4077th that kept us in stitches-and created a true TV classic."
+            },
+            "twitter": {
+                "text": "M*A*S*H Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/mash-the-complete-series/494597/"
+            }
+        }
+    }, {
+        "productName": "Sons of Anarchy Boxset",
+        "productBrand": "",
+        "productPrice": "$149",
+        "productDescription": "Sons of Anarchy: The Complete Series is the iconic, adrenaline-charged initiation into the gritty underworld of outlaw motorcycle clubs. It follows Jax as he struggles to protect his family and escape the deadly legacy of the past.",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/sons-of-anarchy-the-complete-series/725972/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0007_9321337163147_sonsof_packagingbluray_src23pYhena.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0007_9321337163147_sonsof_packagingbluray_src23pYhena.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/sons-of-anarchy-the-complete-series/725972/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0007_9321337163147_sonsof_packagingbluray_src23pYhena.jpg",
+                "title": "Sons of Anarchy Boxset",
+                "summary": "Sons of Anarchy: The Complete Series is the iconic, adrenaline-charged initiation into the gritty underworld of outlaw motorcycle clubs. It follows Jax as he struggles to protect his family and escape the deadly legacy of the past.",
+                "description": "Sons of Anarchy: The Complete Series is the iconic, adrenaline-charged initiation into the gritty underworld of outlaw motorcycle clubs. It follows Jax as he struggles to protect his family and escape the deadly legacy of the past."
+            },
+            "twitter": {
+                "text": "Sons of Anarchy Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-drama/sons-of-anarchy-the-complete-series/725972/"
+            }
+        }
+    }, {
+        "productName": "The X-Files Boxset",
+        "productBrand": "",
+        "productPrice": "$249",
+        "productDescription": "The Truth Is Out There! Assigned the FBI’s most challenging cases, special agents Mulder and Scully face terrifying danger as they struggle to unravel conspiracies and solve paranormal mysteries. Features all 10 seasons and over 25 hours of extras!",
+        "productLink": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/x-files-the-the-complete-series/942634/",
+        "productCatagory": "Everyone",
+        "productThumbnail": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/small/-small_0009_9321337168395_xfiles_packagingbluray_src23mWGWqN.jpg",
+        "productImages": ["https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0009_9321337168395_xfiles_packagingbluray_src23mWGWqN.jpg"],
+        "productShare": {
+            "facebook": {
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/x-files-the-the-complete-series/942634/",
+                "image": "https://media.news.com.au/cs/nca/latest/public/css/vertical/p/2017/11-nov/fox/images/large/-large_0009_9321337168395_xfiles_packagingbluray_src23mWGWqN.jpg",
+                "title": "The X-Files Boxset",
+                "summary": "The Truth Is Out There! Assigned the FBI’s most challenging cases, special agents Mulder and Scully face terrifying danger as they struggle to unravel conspiracies and solve paranormal mysteries. Features all 10 seasons and over 25 hours of extras!",
+                "description": "The Truth Is Out There! Assigned the FBI’s most challenging cases, special agents Mulder and Scully face terrifying danger as they struggle to unravel conspiracies and solve paranormal mysteries. Features all 10 seasons and over 25 hours of extras!"
+            },
+            "twitter": {
+                "text": "The X-Files Boxset",
+                "url": "https://www.jbhifi.com.au/movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/x-files-the-the-complete-series/942634/"
+            }
+        }
+    }]
+});
